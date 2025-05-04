@@ -49,7 +49,7 @@ Deploy the website.
 STEP 15
 Upload to GitHub Pages for free hosting.
 
-##PROGRAM
+## PROGRAM
 HTML
 ```
 <!DOCTYPE html>
@@ -291,7 +291,8 @@ CSS:
 
 ## OUTPUT
 
-![EX2MD](https://github.com/user-attachments/assets/34f1ec73-d3f9-41ac-9c83-bec2c026cd97)
+![image](https://github.com/user-attachments/assets/c3f677a1-7667-4b8b-b35c-6a431370fab0)
+
 ![Ex2 1md](https://github.com/user-attachments/assets/3e9ac1fe-091a-49d1-a0f3-e2159119bc9c)
 
 ![Ex2 2](https://github.com/user-attachments/assets/2ce07756-b9c5-4d81-8c89-7070fcfd8c82)
