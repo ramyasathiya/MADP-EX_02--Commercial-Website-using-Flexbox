@@ -1,9 +1,9 @@
 ## Ex02 Commercial Website
-## Date:
-##AIM
+## Date: 
+## AIM
 To create a commercial website using CSS Flexbox.
 
-##ALGORITHM
+## ALGORITHM
 STEP 1
 Create an HTML file (index.html)
 
@@ -291,12 +291,10 @@ CSS:
 
 ## OUTPUT
 
+![EX2MD](https://github.com/user-attachments/assets/34f1ec73-d3f9-41ac-9c83-bec2c026cd97)
+![Ex2 1md](https://github.com/user-attachments/assets/3e9ac1fe-091a-49d1-a0f3-e2159119bc9c)
 
-
-
-
-
-
+![Ex2 2](https://github.com/user-attachments/assets/2ce07756-b9c5-4d81-8c89-7070fcfd8c82)
 
 
 ## RESULT
